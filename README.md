@@ -27,14 +27,108 @@ A simple, colorful, and responsive web-based task management system built with *
 
 ## 🛠️ Technologies Used
 
-- Python 3
-- Flask
-- Jinja2 (Template Engine)
-- HTML5, CSS3
-- Gunicorn (for production)
-- Railway (for cloud deployment)
+- **Python 3** – Core programming language
+- **Flask** – Lightweight web framework
+- **Flask RESTful** – For building REST APIs
+- **SQLite** – Local SQL database (lightweight and file-based)
+- **SQLAlchemy** – ORM for database operations
+- **Jinja2** – Templating engine for dynamic HTML rendering
+- **HTML5 & CSS3** – Frontend structure and styling
+- **Gunicorn** – WSGI server for deploying Flask in production
+- **Railway** – Platform-as-a-Service for cloud deployment
 
 ---
 
 ## 📁 Project Structure
 
+Task-Management-System/
+- ├── app.py - Main Flask application
+- ├── test_app.py - Unit tests for the app
+- ├── requirements.txt - Python dependencies
+- ├── Procfile - Deployment entry for Railway
+- ├── static/
+  - │ └── style.css - Custom CSS styling
+- ├── templates/
+  - │ ├── index.html - Homepage: task list & filters
+  - │ ├── edit.html - Edit task form
+  -  │ ├── detail.html - Task detail view
+  - │ └── delete_confirm.html - Confirmation before delete
+- ├── instance/
+  - │ └── tasks.db - SQLite database file
+- └── README.md - Project documentation
+
+---
+
+## 🛠 Installation & Setup
+
+### 📌 Requirements
+
+- Python 3.8 or later
+- Visual Studio Code or any Python IDE
+- Git (optional, for cloning)
+- pip (Python package manager)
+
+### 📥 Steps to Run
+
+1. **Clone or download** this repository:
+```
+git clone https://github.com/abdulhayykhan/Task-Management-System.git
+cd Task-Management-System
+```
+
+2. **Create and activate a virtual environment** (recommended):
+```
+python -m venv venv
+```
+On Windows:
+```
+venv\Scripts\activate
+```
+
+On macOS/Linux:
+```
+source venv/bin/activate
+```
+
+3. **Install dependencies**:
+```
+pip install -r requirements.txt
+```
+
+4. **Run the Flask app**:
+```
+python app.py
+```
+
+5. **Access the app**:
+Open your browser and go to:
+```
+http://127.0.0.1:5000
+```
+
+## 🧪 Running Tests
+To run unit tests:
+```
+python test_app.py
+```
+
+---
+
+## 📢 LinkedIn & GitHub Showcase
+
+I’ll be posting a video and write-up on my [LinkedIn](https://www.linkedin.com/in/abdul-hayy-khan) profile showcasing this project and experience. Stay tuned!
+
+---
+
+## 🙋‍♂️ Author
+
+**Abdul Hayy Khan**
+📫 abdulhayykhan.1@gmail.com
+
+---
+
+## 📌 License
+
+This project is for educational purposes as part of the DeveloperHub Corporation internship program. Feel free to use it for learning and inspiration. Attribution is appreciated.
+
+---
