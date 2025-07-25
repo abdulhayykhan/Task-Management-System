@@ -11,7 +11,7 @@ A simple, colorful, and responsive web-based task management system built with *
 - ✅ **Create New Tasks** using the floating "+" action button.
 - 📋 **View Task List** with individual task cards.
 - 🔍 **Search Tasks** by name using the search bar.
-- 🎯 **Filter by Status** (All, Done, Pending).
+- 🎯 **Filter by Status** (All, Completed, Pending).
 - 📅 **Due Date Display** shown clearly on each task.
 - 🔄 **Task Completion Progress Bar** with percentage display.
 - 📦 **Task Status Indicators** (e.g., "Done" with green check badge).
