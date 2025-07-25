@@ -130,6 +130,6 @@ I’ll be posting a video and write-up on my [LinkedIn](https://www.linkedin.com
 
 ## 📌 License
 
-This project is for educational purposes as part of the DeveloperHub Corporation internship program. Feel free to use it for learning and inspiration. Attribution is appreciated.
+This project is for educational purposes as part of the **DeveloperHub Corporation** internship program. Feel free to use it for learning and inspiration. Attribution is appreciated.
 
 ---
