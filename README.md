@@ -116,7 +116,7 @@ python test_app.py
 
 ## 📢 LinkedIn & GitHub Showcase
 
-I’ll be posting a video and write-up on my [LinkedIn](https://www.linkedin.com/in/abdul-hayy-khan) profile showcasing this project and experience. Stay tuned!
+I’ve posted a video and write-up on my [LinkedIn](https://www.linkedin.com/in/abdul-hayy-khan) profile showcasing this project and experience. Stay tuned!
 
 ---
 
