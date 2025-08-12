@@ -118,6 +118,8 @@ python test_app.py
 
 I’ve posted a video and write-up on my [LinkedIn](https://www.linkedin.com/in/abdul-hayy-khan) profile showcasing this project and experience. Stay tuned!
 
+🔵 **Linkedin Post:** [Click here to view](https://www.linkedin.com/posts/abdul-hayy-khan_python-flask-webdevelopment-activity-7360928078442782720-tngH?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD-1C1ABIDYPYt0U2NuXo07kX9IWQsKu3N4&utm_campaign=copy_link)  
+
 ---
 
 ## 🙋‍♂️ Author
