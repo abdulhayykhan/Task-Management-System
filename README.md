@@ -124,7 +124,7 @@ I’ve posted a video and write-up on my [LinkedIn](https://www.linkedin.com/in/
 
 ## 🙋‍♂️ Author
 
-**Abdul Hayy Khan**
+[Abdul Hayy Khan](https://www.linkedin.com/in/abdul-hayy-khan)
 
 📫 abdulhayykhan.1@gmail.com
 
@@ -132,6 +132,6 @@ I’ve posted a video and write-up on my [LinkedIn](https://www.linkedin.com/in/
 
 ## 📌 License
 
-This project is for educational purposes as part of the **DeveloperHub Corporation** internship program. Feel free to use it for learning and inspiration. Attribution is appreciated.
+This project is for educational purposes as part of the **DevelopersHub Corporation** internship program. Feel free to use it for learning and inspiration. Attribution is appreciated.
 
 ---
